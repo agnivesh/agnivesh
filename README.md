@@ -15,15 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/agnivesh/agnivesh">
-  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agnivesh&layout=compact)](https://github.com/agnivesh)" />
-</a>
-
-<a href="https://github.com/agnivesh/agnivesh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=agnivesh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Agnivesh's GitHub Stats" />
-</a>   
-
-
-[![Visits Badge](https://badges.pufler.dev/visits/agnivesh/agnivesh)](https://badges.pufler.dev/visits/agnivesh/agnivesh)
+## &#x1f4c8; I work with
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">&nbsp;<img src="">&nbsp;<img src="">&nbsp;<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/PowerShell-3776AB?style=for-the-badge&logo=powershell&logoColor=white">
