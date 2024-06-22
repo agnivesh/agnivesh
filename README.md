@@ -1,14 +1,12 @@
 ## Hi there 👋
-
-My name is Agnivesh and I am a security auditor focused on ICS and cloud security.
+My name is Agnivesh and I am a security architect focused on cloud security and ICS.
 
 #### At this moment
-- 🔭 I’m currently working on an GCP penenetration testing tool.
 - 🌱 I’m currently learning container security, DevSecOps and serverless.
 - 👯 I’m looking to collaborate on security focused open-source Python and PowerShell projects.
 
 #### Connect with me
-![Mastodon Follow](https://img.shields.io/mastodon/follow/agnivesh)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109290428598706512?domain=https%3A%2F%2Finfosec.exchange&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agniveshs/)
 
 #### Languages & Tools
